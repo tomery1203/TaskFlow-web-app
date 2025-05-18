@@ -1,4 +1,4 @@
-# Base44 App
+
 
 ## Running the app
 
